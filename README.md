@@ -7,7 +7,7 @@ This is the official place to **report bugs** and **upload crash logs** for the 
 
 ## About the Mod
 
-**Souls-Like Bosses** brings challenging, intense boss fights to Minecraft, inspired by the Souls series.  
+**Souls-Like Bosses** brings challenging, intense boss fights to Minecraft, directly out of the the Souls series.  
 Perfect for players looking for a real test of skill!
 
 There is also an alternative, standalone version available:  
