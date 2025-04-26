@@ -1,0 +1,62 @@
+name: Bug Report
+description: Report a bug or crash related to Souls-Like Bosses
+title: "[Bug] "
+labels: [bug]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for reporting a bug! Please fill out this form carefully.**
+        
+  - type: input
+    id: minecraft_version
+    attributes:
+      label: Minecraft Version
+      placeholder: e.g. 1.20.1
+    validations:
+      required: true
+
+  - type: input
+    id: mod_version
+    attributes:
+      label: Souls-Like Bosses Mod Version
+      placeholder: e.g. 1.0.3
+    validations:
+      required: true
+
+  - type: input
+    id: forge_or_fabric_version
+    attributes:
+      label: Forge/Fabric Version
+      placeholder: e.g. Forge 47.1.0
+    validations:
+      required: true
+
+  - type: textarea
+    id: installed_mods
+    attributes:
+      label: Other Installed Mods
+      placeholder: List other mods you're using, if any.
+      description: Please list any other mods you have installed that could be relevant.
+    validations:
+      required: false
+
+  - type: textarea
+    id: crashlog
+    attributes:
+      label: Crash Log / Latest.log
+      description: Please paste your crash log here or upload it using GitHub attachments.
+      placeholder: Drag and drop your crashlog file or paste the text here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: A clear and concise description of what the bug is.
+      placeholder: Describe what happened and how to reproduce it.
+    validations:
+      required: true
