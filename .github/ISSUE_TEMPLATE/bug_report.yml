@@ -22,7 +22,7 @@ body:
     id: mod_version
     attributes:
       label: Souls-Like Bosses Mod Version
-      placeholder: e.g. 1.0.3
+      placeholder: e.g. 2.4
     validations:
       required: true
 
