@@ -18,7 +18,7 @@ There is also an alternative, standalone version available:
 ## Reporting Bugs and Uploading Crash Logs
 
 If your game crashes or you encounter a bug, please open a new issue here and **attach your crash log**.  
-This will help us fix problems faster!
+This will help me fix problems faster!
 
 🔹 To report an issue, go to the **Issues** tab and click **New Issue**.  
 🔹 Include as much information as possible (Minecraft version, mod version, Forge/Fabric version, other installed mods, etc.).
