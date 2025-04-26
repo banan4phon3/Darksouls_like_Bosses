@@ -1,4 +1,4 @@
-# Souls-Like Bosses — Issue Tracker & Support
+# Darksouls Like Bosses — Issue Tracker & Support
 
 Welcome!  
 This is the official place to **report bugs** and **upload crash logs** for the Minecraft mod [Souls-Like Bosses](https://www.curseforge.com/minecraft/mc-mods/souls-like-bosses).
