@@ -9,7 +9,6 @@ This is the official place to **report bugs** and **upload crash logs** for the 
 
 **Souls-Like Bosses** brings challenging, intense boss fights to Minecraft, inspired by the Souls series.  
 Perfect for players looking for a real test of skill!
-👉 [Darksouls like Bosses](https://www.curseforge.com/minecraft/mc-mods/souls-like-bosses)
 
 There is also an alternative, standalone version available:  
 👉 [Soul of Cinder Boss + Abyss Watchers (Standalone)](https://www.curseforge.com/minecraft/mc-mods/soul-of-cinder-boss-standalone)
